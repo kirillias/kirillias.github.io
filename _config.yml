@@ -16,11 +16,11 @@ google-tracking-id: false
 # HTML Head #
 #############
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
+author: "Bianca Kang"
+title: "Bianca Kang"
 description:
-  "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+  "some things about me"
+keywords: ""
 favicon: "/img/favicon.ico"
 ################
 # Header layout #
@@ -32,14 +32,13 @@ background-img: "../img/intro-bg.jpg"
 ##############################
 dynamic-typing: True
 shuffle: True # Shuffle the lines.
-loop: True
+loop: false
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "hello! i'm happy to see you here."
 me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.

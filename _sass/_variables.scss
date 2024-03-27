@@ -6,16 +6,20 @@ $primary-color: #dde4e8;
 // Accent color
 $secondary-color: #514cad;
 
+//Header color
+$tertiary-color: #ffc97a;
+
 // Font color
 $font-color: #ce2f7f;
 
-$navbar-text-shadow: false;
+
+$navbar-text-shadow: true;
 $header-text-shadow: false;
 $header-background-color: $primary-color;
 $intro-text-color: $font-color;
 $navbar-color: $font-color;
-$navbar-lg-collapse-background-color: $header-background-color;
-$navbar-lg-background: transparent;
-$navbar-sm-background-color: $navbar-lg-collapse-background-color;
+$navbar-lg-collapse-background-color: $tertiary-color;
+$navbar-lg-background: $tertiary-color;
+$navbar-sm-background-color: $tertiary-color;
 
 $social-buttons-color: $secondary-color;
