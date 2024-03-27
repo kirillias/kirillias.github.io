@@ -2,14 +2,14 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://kirillias.github.io"
+url: ""
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
 # and NOT your user repository (https://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
-baseurl: /personal-jekyll-theme
+baseurl: ""
 # Google tracking id
 google-tracking-id: false
 #############
@@ -84,7 +84,7 @@ tumblr-share: False
 pinterest-share: False
 pocket-share: False
 vkontakte-share: False
-disqus-shortname: "personal-jekyll-theme"
+disqus-shortname: False
 syntax-highlight: False
 ############
 # Timeline #
@@ -113,9 +113,8 @@ pgp: False
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb:
-  "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional
-  engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+  ""
+author_blurb_image: ""
 ##################
 # Social Buttons #
 ##################
@@ -135,7 +134,7 @@ err-404-img: "/img/labtocat.png"
 # Sections shown in the index page
 pages_list:
   About: "about"
-  Blog: "latest-post"
+  Posts: "latest-post"
   #Timeline: "timeline"
   Contact: "contact"
 # Exclusion list from the generated _site
@@ -149,7 +148,7 @@ exclude:
   - docker-compose.yml
   - timeline
 # Pagination path
-paginate_path: "blog/page:num/"
+paginate_path: "postings/page:num/"
 # Enable minification SASS
 sass:
   style: compressed
