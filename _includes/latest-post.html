@@ -18,9 +18,12 @@
       </h4>
 
       <section class="text-justify">
-        {{ post.content | strip_html | markdownify | truncatewords:
-        site.post-preview-words }}
+        <div style="text-align: justify">
+          <font size=4 px>
+       {{ post.content |  markdownify | strip_html | truncatewords:
+        site.post-preview-words  }}</font></div>
       </section>
+      <br><br>
 
       <h4><a href="{{site.baseurl}}/postings/">archives</a></h4>
     </div>

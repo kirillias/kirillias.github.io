@@ -7,20 +7,20 @@ $primary-color: #fffad6;
 $secondary-color: #00d6ba;
 
 //Header color
-$tertiary-color: #fdaac6;
+$tertiary-color: #00d6ba;
 
 // Font color
 $font-color: #ff569c;
 
 // Intro text color
-$intro-font-color:#faf8ed ;
+$intro-font-color:#faf8ed;
 
 
 $navbar-text-shadow: true;
 $header-text-shadow: false;
 $header-background-color: $primary-color;
 $intro-text-color: $intro-font-color;
-$navbar-color: $font-color;
+$navbar-color: $intro-font-color;
 $navbar-lg-collapse-background-color: $tertiary-color;
 $navbar-lg-background: $tertiary-color;
 $navbar-sm-background-color: $tertiary-color;

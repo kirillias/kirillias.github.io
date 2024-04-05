@@ -21,11 +21,11 @@ title: "Bianca Kang"
 description:
   "some things about me"
 keywords: ""
-favicon: "/img/favicon.ico"
+favicon: "/img/cat-face.png"
 ################
 # Header layout #
 ################
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: ""
 background-img: "../img/beach.jpg"
 ##############################
 # Dynamic Text on the Header #
@@ -122,10 +122,12 @@ social:
     url: "https://github.com/kirillias"
   - icon: "linkedin"
     url: "https://www.linkedin.com/bianca-kang"
+  - icon: "google"
+    url: ""
 ############
 # 404 page #
 ############
-err-404-img: "/img/labtocat.png"
+err-404-img: "/img/cat-weary-face.png"
 ################################################################################
 
 # NB! Tread carefully if you want to change the variables below this point!
@@ -134,6 +136,7 @@ err-404-img: "/img/labtocat.png"
 pages_list:
   About: "about"
   Research: "research"
+  Personal: "personal"
   Posts: "latest-post"
   #Timeline: "timeline"
   Contact: "contact"
