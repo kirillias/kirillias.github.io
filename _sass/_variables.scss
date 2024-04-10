@@ -1,16 +1,16 @@
 // Variables
 
 // Background color
-$primary-color: #fffad6;
+$primary-color: #46425e;
 
 // Accent color
-$secondary-color: #00d6ba;
+$secondary-color: #ff6973;
 
 //Header color
-$tertiary-color: #00d6ba;
+$tertiary-color: #15788c;
 
 // Font color
-$font-color: #ff569c;
+$font-color: #ffeecc;
 
 // Intro text color
 $intro-font-color:#faf8ed;
@@ -20,7 +20,7 @@ $navbar-text-shadow: true;
 $header-text-shadow: false;
 $header-background-color: $primary-color;
 $intro-text-color: $intro-font-color;
-$navbar-color: $intro-font-color;
+$navbar-color: $font-color;
 $navbar-lg-collapse-background-color: $tertiary-color;
 $navbar-lg-background: $tertiary-color;
 $navbar-sm-background-color: $tertiary-color;
