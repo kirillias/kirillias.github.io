@@ -1,0 +1,24 @@
+current directory: C:/Users/bianc/Documents/GitHub/kirillias.github.io/vendor/cache/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/bianc/Documents/GitHub/kirillias.github.io/vendor/cache/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240918-10476-5dvwuf sitelibdir\=./.gem.20240918-10476-5dvwuf clean
+bash.exe: warning: could not find /tmp, please create!
+
+current directory: C:/Users/bianc/Documents/GitHub/kirillias.github.io/vendor/cache/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240918-10476-5dvwuf sitelibdir\=./.gem.20240918-10476-5dvwuf
+generating fastfilereaderext-x64-mingw-ucrt.def
+bash.exe: warning: could not find /tmp, please create!
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: C:/Users/bianc/Documents/GitHub/kirillias.github.io/vendor/cache/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240918-10476-5dvwuf sitelibdir\=./.gem.20240918-10476-5dvwuf install
+bash.exe: warning: could not find /tmp, please create!
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20240918-10476-5dvwuf
+
+current directory: C:/Users/bianc/Documents/GitHub/kirillias.github.io/vendor/cache/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240918-10476-5dvwuf sitelibdir\=./.gem.20240918-10476-5dvwuf clean
+bash.exe: warning: could not find /tmp, please create!

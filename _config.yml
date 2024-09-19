@@ -150,6 +150,7 @@ exclude:
   - Dockerfile
   - docker-compose.yml
   - timeline
+  - vendor
 # Pagination path
 paginate_path: "postings/page:num/"
 # Enable minification SASS

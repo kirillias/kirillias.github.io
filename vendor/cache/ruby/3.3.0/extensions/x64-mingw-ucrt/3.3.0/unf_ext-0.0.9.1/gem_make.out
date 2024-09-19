@@ -1,0 +1,24 @@
+current directory: C:/Users/bianc/Documents/GitHub/kirillias.github.io/vendor/cache/ruby/3.3.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: C:/Users/bianc/Documents/GitHub/kirillias.github.io/vendor/cache/ruby/3.3.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240918-10476-q955gm sitelibdir\=./.gem.20240918-10476-q955gm clean
+bash.exe: warning: could not find /tmp, please create!
+
+current directory: C:/Users/bianc/Documents/GitHub/kirillias.github.io/vendor/cache/ruby/3.3.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240918-10476-q955gm sitelibdir\=./.gem.20240918-10476-q955gm
+generating unf_ext-x64-mingw-ucrt.def
+bash.exe: warning: could not find /tmp, please create!
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: C:/Users/bianc/Documents/GitHub/kirillias.github.io/vendor/cache/ruby/3.3.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240918-10476-q955gm sitelibdir\=./.gem.20240918-10476-q955gm install
+bash.exe: warning: could not find /tmp, please create!
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20240918-10476-q955gm
+
+current directory: C:/Users/bianc/Documents/GitHub/kirillias.github.io/vendor/cache/ruby/3.3.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240918-10476-q955gm sitelibdir\=./.gem.20240918-10476-q955gm clean
+bash.exe: warning: could not find /tmp, please create!
