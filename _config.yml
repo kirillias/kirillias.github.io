@@ -120,6 +120,8 @@ author_blurb_image: ""
 social:
   - icon: "github"
     url: "https://github.com/kirillias"
+  - icon: "bluesky"
+    url: "https://bsky.app/profile/kirillias.bsky.social"
   - icon: "linkedin"
     url: "https://www.linkedin.com/in/bianca-kang/"
   - icon: "google"
